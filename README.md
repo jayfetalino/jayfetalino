@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayfetalino
-- 📝 Current student at FullStack Academy (Software Engineering)
-- 👨🏼‍🍳 Former Hospitality Management Professional/Chef
+- 📝 FullStack Academy Alumni (Software Engineering)
+- 👨🏼‍🍳 Former Hospitality Management Professional(Chef)
 - 🏊🏼‍♂️🚴🏼🏃🏼‍♂️ 3x Ironman Finisher | Ultra Runner
 
 <!---
